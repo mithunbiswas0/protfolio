@@ -1,0 +1,925 @@
+
+@media (max-width:1550px){
+/******** bannar part **************/
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+    font-size: 60px;
+  
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+    font-size: 60px;
+    
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center {
+    top: 100px;
+}
+
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+    bottom: 200px;
+}
+
+/********** about me ********/
+.about-me .container-fluid .aboutme-hadding-part {
+    margin: 0px;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content {
+    margin-bottom: 45px;
+    margin-top: 68px;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 19px;
+}
+
+/********** about me end ********/
+
+/*****************/
+@media (max-width:1399px)  {
+
+/* nav+logo  */
+    nav .navbar-collapse .ml-auto {
+        
+        margin-right: 75px !important;
+        
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 18px;
+        padding-top: 37px;
+        padding-bottom: 37px;
+    }
+
+/* nav+logo end */ 
+
+/******** bannar part **************/
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+    font-size: 50px;
+  
+}
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+    font-size: 50px;
+  
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+    bottom: 145px;
+}
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center a {
+    font-size: 18px;
+    padding: 10px 10px;
+   
+}
+
+/******** bannar part end **************/
+
+/********** about me ********/
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6 {
+    font-size: 19px;
+    padding: 10px 12px;
+}
+.about-me .container-fluid .aboutprogress-bar h4 {
+    
+    font-size: 18pt;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 14px;
+}
+
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content {
+    margin-bottom: 75px;
+    margin-top: 85px;
+}
+.about-me .container-fluid .aboutprogress-bar h4 {
+    margin-top: 35px;
+}
+
+
+/********** about me end ********/
+
+/***************** my service ****************/
+.my-service .col-lg-3{
+    display: flex;
+}
+.my-service .myservice-content {
+    padding: 0 13px;
+}
+.my-service .myservice-content h5 {
+    font-size: 17.23px;
+}
+.my-service .myservice-content p {
+    font-size: 14.38px;
+}
+/***************** my service end ****************/
+
+/************ my statistic **************/
+
+.my-statistic .container .mystatistic-content .line {
+    transform: translateY(-37%) scaleX(0.5);
+    left: 35px;
+}
+
+
+/************ my statistic end **************/
+
+
+/************** life changeing story ***********/
+
+.life-changeing-story {
+    padding: 42px 0;
+}
+
+.life-changeing-story .container-fluid .margein-left .section-top-heading {
+   
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+.life-changeing-story .section-top-heading h1 {
+    font-size: 35px;
+}
+
+.life-changeing-story .container-fluid .margein-left .story-text p {
+    font-size: 14px;
+    padding-bottom: 14px;
+}
+.life-changeing-story .container-fluid .margein-left .story-text {
+    padding-top: 50px;
+}
+
+
+
+
+/************** life changeing story end ***********/
+
+.get-form .container .form-top p {
+    font-size: 14px;
+}
+
+.my-work .container-fluid .mywork-img i {
+
+    right: 16px;
+    top: 19px;
+    font-size:15px;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+   
+}
+.my-work .container-fluid .my-work-img-tag h4 {
+    font-size: 12px;
+    padding-top: 10px;
+}
+.my-work .container-fluid .my-work-img-tag p {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+}
+/**************************/
+@media (max-width:1199px){
+
+/* nav+logo  */ 
+    .navbar .navbar-nav .nav-item {
+        padding: 0px 14px;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        padding-top: 28px;
+        padding-bottom: 28px;
+    }
+
+    .dropdown .dropdown-custom {
+        padding: 9px 0;
+        padding-right: 15px;
+        line-height: 9px;
+    }
+/* nav+logo end */ 
+
+/******** bannar part **************/
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+    font-size: 45px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+    font-size: 45px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+    bottom: 100px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center {
+    top: 65px;
+}
+
+
+
+/******** bannar part end **************/
+
+/********** about me ********/
+.about-me .container-fluid .aboutme-img img {
+     height: auto;
+    margin: 120px 0;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content {
+    margin-bottom: 35px;
+    margin-top: 50px;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 12px;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6 {
+    font-size: 15px;
+    padding: 8px 7px;
+}
+.about-me .container-fluid .aboutprogress-bar h4 {
+    margin-top: 3px;
+}
+.about-me .section-top-heading h1 {
+    font-size: 40px;
+ 
+}
+.about-me .section-top-heading .heading-line {
+    max-width: 350px;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6::after {
+    border-top: 15px solid #ff000003;
+    border-bottom: 13px solid #00800000;
+    border-right: 26px solid #f39c12;
+}
+
+/********** about me end ********/
+
+/************ my statistic **************/
+.my-statistic .container .mystatistic-content .line {
+  
+    -webkit-transform: translateY(-37%) scaleX(0.6);
+    transform: translateY(-37%) scaleX(0.6);
+    left: 35px;
+}
+/************ my statistic end **************/
+
+
+
+/************** life changeing story  ***********/
+.life-changeing-story .section-top-heading h1 {
+    font-size: 29px;
+}
+.life-changeing-story .container-fluid .margein-left .section-top-heading .heading-line {
+    max-width: 370px;
+    
+}
+.life-changeing-story .container-fluid .margein-left .story-text p {
+    font-size: 12px;
+}
+.life-changeing-story .container-fluid .story-img img {
+    margin-top: 22px;
+}
+
+
+
+/************** life changeing story end ***********/
+
+.recent-story .item .recent-story-img-text .recent-story-text p {
+ 
+    font-size: 12px;
+}
+.recent-story .item .recent-story-img-text .recent-story-text {
+    padding-right: 17px;
+}
+.recent-story .item .recent-story-img-text .recent-story-text .btn {
+    font-size: 15px;
+}
+
+}
+/*****************************************************************************************/
+@media (max-width:991px) {
+/********** nav+logo **********/
+
+.navbar .navbar-brand img {
+    width: 130px;
+    margin: auto;
+}
+.navbar .navbar-nav .nav-item {
+    padding: 0 20px;
+    margin: auto;
+    text-align: center;
+}
+.dropdown {
+    padding: 32px !important;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+.dropdown .dropdown-custom {
+    padding: 13px 14px;
+    width: 50%;
+    text-align: center;
+}
+/* ***********nav+logo end ************/
+
+/******** bannar part **************/
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+    bottom: 55px;
+}
+
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+    font-size: 34px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+    font-size: 34px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center a {
+    font-size: 15px;
+    padding: 10px 15px;
+} 
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center {
+    top: 55px;
+}
+
+/******** bannar part end **************/
+
+/********** about me ********/
+.about-me .container-fluid .aboutme-img img {
+  
+    margin: 0;
+    /* padding-left: 25px; */
+   
+}
+.about-me .container-fluid .aboutme-hadding-part {
+    
+    margin-top: 60px;
+}
+.about-me .container-fluid .aboutme-hadding-part {
+    margin-top: 60px;
+    margin-left: 65px;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 17px;
+}
+.about-me .container-fluid .aboutprogress-bar h4 {
+    margin-top: 20px;
+    font-size: 20pt;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6 {
+    font-size: 20px;
+    padding: 10px 15px;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6::after {
+    border-top: 16px solid #ff000003;
+    border-bottom: 16px solid #00800000;
+    border-right: 32px solid #f39c12;
+}
+
+/********** about me end ********/
+
+/************ my statistic  **************/
+
+.my-statistic .container .mystatistic-content {
+    flex-direction: column;
+}
+
+.my-statistic .container .mystatistic-content .last {
+    padding-left: 0 !important; 
+}
+.my-statistic .container .mystatistic-content .mystatistic-content-part {
+   
+    padding: 0 0px;
+  
+}
+.my-statistic .container .mystatistic-content .line {
+  
+    transform: rotate(90deg)scaleX(0.6);
+    
+    left: 35px;
+    top: 45%;
+    left: 0;
+}
+
+/************ my statistic end **************/
+
+
+/************** life changeing story  ***********/
+.life-changeing-story .container-fluid {
+     padding-left: 1rem;
+}
+.life-changeing-story .container-fluid .margein-left .section-top-heading {
+    font-size: 50px;
+    padding-top: 85px;
+ 
+}
+.life-changeing-story .container-fluid .margein-left .section-top-heading .heading-line {
+    max-width: 480px;
+    
+}
+.life-changeing-story .section-top-heading h1 {
+    font-size: 39px;
+}
+.life-changeing-story .container-fluid .margein-left {
+    margin-left: 25px;
+}
+.life-changeing-story .container-fluid .margein-left .story-text p {
+    font-size: 15px;
+    padding-right: 20px;
+}
+/************** life changeing story end  ***********/
+
+.my-work .container-fluid .mywork-img i {
+
+    right: 16px;
+    top: 19px;
+    font-size:15px;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+   
+}
+.my-work .container-fluid .my-work-img-tag h4 {
+    font-size: 12px;
+    padding-top: 10px;
+}
+.my-work .container-fluid .my-work-img-tag p {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+}
+/**************************************************************************/
+
+@media (max-width:767px){
+    .navbar-toggler-icon {
+        
+        margin-right: 35px;
+    }
+
+/******** bannar part **************/
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+    font-size: 25px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+    font-size: 25px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center a {
+    font-size: 12px;
+    padding: 7px 9px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center {
+    top: 40px;
+}
+.bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+    bottom: 27px;
+}
+/******** bannar part end **************/
+
+/********** about me ********/
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 12px;
+}
+.about-me .container-fluid .aboutprogress-bar h4 {
+    margin-top: 20px;
+    font-size: 14pt;
+}
+.about-me .container-fluid .aboutprogress-bar .progress-skill .progress {
+    width: 80%;
+    color: #ececec;
+    height: 10px;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6::after {
+    border-top: 9px solid #ff000003;
+    border-bottom: 7px solid #00800000;
+    border-right: 17px solid #f39c12;
+    left: -15px;
+}
+.about-me .container-fluid .aboutprogress-bar .pogress-percent h6 {
+    font-size: 13px;
+    padding: 6px 11px;
+}
+
+/********** about me end ********/
+/***************** my service ****************/
+/***************** my service end ****************/
+
+}
+@media (max-width:720px)  {
+        .follow-me .social-link i {
+            font-size: 20px;
+        }
+        .section-top-heading h1 {
+            font-size: 35px;
+        }
+        .follow-me .section-top-heading .heading-line {
+            max-width: 255px;
+        }
+        footer {
+            padding: 40px 0;
+        }
+
+        footer .footer-text h4 {
+            font-size: 15px;
+        }
+}    
+/**************************/
+@media (max-width:575px)  {
+    .navbar .navbar-brand img {
+        width: 85px;
+        
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 0 20px;
+        margin: 0;
+        text-align: start; 
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 15px;
+    }
+
+    .dropdown {
+        
+        margin: 0; 
+        text-align: start;
+    }
+    .dropdown .dropdown-custom {
+        padding: 9px 0;
+        padding-right: 15px;
+        line-height: 9px;
+    }
+    .dropdown .dropdown-custom {
+        left: 20px;
+    }
+/******** bannar part  **************/    
+    .bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center a {
+        font-size: 8px;
+        padding: 5px 7px;
+    }
+    .bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h2 {
+        font-size: 15px;
+    }
+    .bannar .container-fluid .carousel-inner .carousel-item .carousel-caption h1 {
+        font-size: 15px;
+    }
+    .bannar .container-fluid .carousel-inner .carousel-item .carousel-caption {
+        bottom: -17px;
+        right: 65px;
+        
+    }
+    .bannar .container-fluid .carousel-inner .carousel-item .carousel-caption .text-center {
+        top: 10px;
+ 
+    }
+
+    
+/******** bannar part end **************/
+
+/********** about me ********/
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content p {
+    font-size: 13px;
+    line-height: 1.7;
+}
+.about-me .container-fluid .aboutme-hadding-part {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.about-me .container-fluid .aboutme-hadding-part .aboutme-content {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+/********** about me end ********/
+
+/***************** my service ****************/
+.my-service .section-top-heading h1 {
+    font-size: 40px;
+}
+.my-service .myservice-content {
+    padding: 0 33px;
+    margin-left: 20px;
+}
+.my-service .myservice-content h5 {
+    font-size: 19.23px;
+}
+.my-service .myservice-content p {
+    font-size: 15.38px;
+}
+
+/***************** my service end ****************/
+
+/************ my statistic **************/
+.my-statistic .container .mystatistic-content .line {
+    transform: rotate(90deg)scaleX(1.5);
+   
+}
+/************ my statistic end **************/
+
+
+/************** life changeing story ***********/
+
+.life-changeing-story .section-top-heading h1 {
+    font-size: 25px;
+}
+
+.life-changeing-story .container-fluid .margein-left .section-top-heading .heading-line {
+    max-width: 297px;
+}
+/************** life changeing story end  ***********/
+
+/************ footer part  *************/
+footer {
+    background-color: #f39c12;
+    padding: 35px 0;
+}
+
+footer .footer-text h4 {
+    font-size: 12px;
+}
+
+
+.google-map .container-fluid .map .embad-map .map-text p {
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+.google-map .container-fluid .map .embad-map .map-text {
+    padding: 20px;
+    line-height: 20px;
+}
+
+
+.google-map .container-fluid .map .embad-map iframe {
+    
+    height: 520px;
+}
+
+.get-form .container .form-top {
+    margin: 0 10px;
+    
+}
+.get-form .container form .border-form {
+   
+    font-size: 20px;
+  
+}
+.get-form .container .message {
+    font-size: 20px;
+}
+.get-form .container button {
+    font-size: 15px;
+}
+
+.my-work .container-fluid .mywork-img i {
+    right: 19px;
+    top: 15px;
+    font-size: 16px;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+}
+.my-work .container-fluid .my-work-img-tag h4 {
+    font-size: 16px;
+}
+.my-work .container-fluid .my-work-img-tag p {
+    font-size: 15px;
+}
+
+.follow-me {
+    padding-top: 18px;
+}
+
+
+}  
+
+/**************************************************************************/
+@media (max-width: 720px){
+
+    .recent-story .item .recent-story-img-text .recent-story-img img {
+        margin-top: 7px;
+    }
+
+    .recent-story .item .recent-story-img-text .recent-story-text p {
+        font-size: 14px;
+    }
+
+}
+
+
+/**************************************************************************/
+@media (max-width: 540px){
+    .my-statistic .container .mystatistic-content .line {
+        transform: rotate(90deg)scaleX(0.9);
+    }
+
+    .recent-story .item .recent-story-img-text .recent-story-img img {
+        margin-top: 7px;
+    }
+
+    .recent-story .item .recent-story-img-text .recent-story-text p {
+        font-size: 14px;
+    }
+
+    .clients-feedback .item {
+        margin-left: 3rem!important;
+        margin-right: 0 !important;
+        
+    }
+
+/********************************************/
+
+.recent-story .item .recent-story-img-text .recent-story-text .btn {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+.recent-story .item .recent-story-img-text .recent-story-text p {
+    
+    font-size: 15px;
+    font-weight: 300;
+    padding: 14px 0;;
+}
+.recent-story .item .recent-story-img-text .recent-story-img img {
+    margin-top: 0px;
+}
+.recent-story .item .recent-story-img-text .recent-story-text h6 {
+    font-size: 17px;
+}
+
+.recent-story .item .recent-story-img-text .recent-story-text h3 {
+   
+    font-size: 17px;
+
+}
+
+
+.recent-story .item .recent-story-img-text .recent-story-text {
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.clients-feedback .section-top-heading h1 {
+    font-size: 31px;
+} 
+.clients-feedback .section-top-heading .heading-line {
+    max-width: 315px;
+}
+    
+}
+
+@media (max-width: 480px){
+
+    .my-statistic .container .mystatistic-content .line {
+        transform: rotate(90deg)scaleX(1.2);
+        top: 44%;
+    }
+    .letast-tweet .section-top-heading h1 {
+        font-size: 35px;
+    }
+    .letast-tweet .section-top-heading .heading-line {
+        max-width: 280px;
+    }
+
+    .letast-tweet .container-fluid .tweet-text p {
+        font-size: 12px;
+    }
+
+    /************************/
+    .my-work .container-fluid .mywork-target ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+    }
+
+    .my-work .container-fluid .mywork-target ul li {
+        margin-left: 0; 
+        margin-top: 20px;
+    }
+/*************************/
+.recent-story .item .recent-story-img-text .recent-story-text p {
+    font-size: 12px;
+  
+} 
+.recent-story .item .recent-story-img-text .recent-story-text .btn {
+    font-size: 12px;
+   
+}  
+.recent-story .item .recent-story-img-text .recent-story-img img {
+    margin-top: 12px;
+} 
+/**********************/
+    .clients-feedback .item {
+        margin-left: 0!important;
+
+    }
+    .clients-feedback .item .clients-history .feedback-top h4 {
+        font-size: 13px;
+    }
+    .clients-feedback .item .clients-history .feedback-top p {
+        font-size: 12px;
+        padding-top: 15px;
+    }
+    .clients-feedback .item .clients-history .feedback-bottom {
+        margin-left: 43px;
+    }
+    .clients-feedback .item .clients-history .feedback-bottom .bottom-text {
+        margin-left: 12px;
+    }
+
+    .clients-feedback .item .clients-history .feedback-bottom .bottom-text h5 {
+        font-size: 12px;
+    }
+}
+/**************************************************************************/
+
+@media (max-width: 320px){
+    .my-statistic .section-top-heading h1 {
+            font-size: 40px;
+            
+        }
+    .my-statistic .container .mystatistic-content .line {
+        transform: rotate(90deg)scaleX(1.4);
+        top: 44%;
+    }
+
+    .life-changeing-story .container-fluid .margein-left {
+        margin-left: 0;
+    }
+    .life-changeing-story .section-top-heading h1 {
+        font-size: 24px;
+    }
+    .life-changeing-story .container-fluid .margein-left .story-text p {
+        font-size: 15px;
+        padding-right: 0;
+    }
+
+    .follow-me .social-link i {
+        font-size: 16px;
+    }
+    footer .footer-text h4 {
+        font-size: 10px;
+    }
+
+    .google-map .container-fluid .map .embad-map .map-text p {
+        font-size: 17px;
+        line-height: 1.7;
+    }
+
+    .google-map .container-fluid .map .embad-map .map-text {
+        padding: 20px;
+        line-height: 20px;
+    }
+
+
+    .google-map .container-fluid .map .embad-map iframe {
+        
+        height: 520px;
+    }
+
+    .get-form .container .form-top {
+        margin: 0 10px;
+        
+    }
+    .get-form .section-top-heading h1 {
+        font-size: 30px;
+    }
+    .get-form .container .form-top p {
+        font-size: 12px;
+    }
+
+    /***********************/
+
+    .recent-story .item .recent-story-img-text .recent-story-text .btn {
+        font-size: 11px;
+        padding: 5px 10px;
+    }
+    .recent-story .item .recent-story-img-text .recent-story-text p {
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    .recent-story .item .recent-story-img-text .recent-story-img img {
+        margin-top: 50px;
+    }
+    .recent-story .item .recent-story-img-text .recent-story-text h6 {
+        font-size: 13px;
+    }
+
+    .recent-story .item .recent-story-img-text .recent-story-text h3 {
+       
+        font-size: 11px;
+ 
+    }
+
+    
+.recent-story .item .recent-story-img-text .recent-story-text {
+    padding-left: 13px;
+    padding-right: 17px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+
+}
+
+
+
+
